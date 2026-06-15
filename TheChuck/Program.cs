@@ -1,3 +1,4 @@
+// KOMMENTAR
 
 using TheChuck.Core;
 using TheChuck.Infrastructure;
